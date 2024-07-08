@@ -19,9 +19,9 @@ Section:NewLabel("Youtube Channel : Eyes Exploiter ")
 
 Section:NewLabel("Eyes Hub Has 30+ Scirpt ")
 
-Section:NewLabel("Release Date : 8/7/2024 ")
+Section:NewLabel("Release : 9/7/2024 ")
 
-Section:NewLabel("Last Updates : No Updates yet ")
+Section:NewLabel("Last Updates : 9/7/2024")
 
 local Tab = Window:NewTab("Games")
 
@@ -8384,3 +8384,22 @@ end)
 Section:NewSlider("JumpPower", "Setting Scirpt", 750, 50, function(s) -- 500 (MaxValue) | 0 (MinValue)
 	game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
 end)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
